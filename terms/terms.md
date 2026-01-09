@@ -58,6 +58,6 @@ This Agreement shall be governed by the laws of the jurisdiction in which BirApp
 - BirApps Studio reserves the right to modify this Agreement at any time. Continued use of the Mobile Application after changes constitutes acceptance of the updated terms.
 
 For any questions regarding these Terms of Use, please contact:  
-**Email:** crowdmindapp@gmail.com
+**Email:** help.birapps@gmail.com
 
 **Last updated: January 03, 2026**
